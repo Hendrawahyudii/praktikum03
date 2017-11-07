@@ -9,4 +9,7 @@ int main(){
 	cout << "input nilai x = ";
 	cin >> x;
 	
+	cout << "input nilai y = ";
+	cin >> y;
+	
 }
